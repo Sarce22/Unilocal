@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Unilocal</string>
+    <string name="txt_ingrese_correo">Ingrese su correo</string>
+    <string name="txt_ingrese_contrasenia">Ingrese su contraseña</string>
+    <string name="btn_login">Login</string>
+    <string name="lbl_inicia_con">O inicia con</string>
+    <string name="btn_goole">Login with Google</string>
+    <string name="lbl_registro">Todavía no tienes una cuenta</string>
+    <string name="lbl_registrate">Regístrate aquí</string>
+    <string name="lbl_iniciar_sesion">Iniciar sesión</string>
 </resources>
