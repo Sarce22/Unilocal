@@ -8,4 +8,37 @@
     <string name="lbl_registro">Todavía no tienes una cuenta</string>
     <string name="lbl_registrate">Regístrate aquí</string>
     <string name="lbl_iniciar_sesion">Iniciar sesión</string>
+
+    <!-- Campos Registro -->
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="nickname">NickName</string>
+    <string name="Correo">Correo electrónico</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="confimarContrasenia">Confirmar contraseña</string>
+    <string name="numCelular">Número de teléfono</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="hora_de_inicio">Hora de inicio</string>
+    <string name="hora_de_cierre">Hora de cierre</string>
+    <string name="martes">Martes:</string>
+    <string name="lunes">Lunes:</string>
+    <string name="miercoles">Miercoles</string>
+    <string name="nombre_del_lugar">Nombre del Lugar</string>
+    <string name="direccion">Dirección:</string>
+    <string name="ingrese_la_direccion">Ingrese la dirección</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="ingrese_el_telefono">Ingrese el teléfono</string>
+    <string name="viernes">Viernes</string>
+    <string name="guardar_lugar">Guardar Lugar</string>
+    <string name="jueves">Jueves</string>
+
+    <string name="informacion_personal">Información personal</string>
+    <string name="notificacion">Notificación</string>
+    <string name="mis_lugares">Mis lugares</string>
+    <string name="guardados">Guardados</string>
+    <string name="editar">editar</string>
+    <string name="perfil_usuario">Perfil usuario</string>
+    <string name="ir_a_login">Ir a login</string>
+
 </resources>

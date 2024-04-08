@@ -13,6 +13,16 @@
         android:theme="@style/Theme.Unilocal"
         tools:targetApi="31">
         <activity
+            android:name=".activity.MenuUsuarioActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Unilocal" />
+        <activity
+            android:name=".activity.PerfilUsuarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.RegistroActivity"
+            android:exported="false" />
+        <activity
             android:name=".activity.CrearLugarActivity"
             android:exported="false" />
         <activity
